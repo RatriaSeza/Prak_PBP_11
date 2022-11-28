@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">iPhone 14 Pro Max. Memotret detail menakjubkan dengan kamera Utama 48 MP. Nikmati iPhone dalam cara yang sepenuhnya baru dengan layar yang Selalu Aktif dan Dynamic Island. Deteksi Tabrakan, sebuah fitur keselamatan baru, memanggil bantuan saat Anda tak bisa.</string>
+    <string name="content_specs_display">LTPO Super Retina XDR OLED 120Hz HDR10\nDolby Vision 1000 nits (typ) 2000 nits (HBM)\n6.7 inches, 110.2 cm2 (~88.3% screen-to-body ratio)\n1290 x 2796 pixels, 19.5:9 ratio (~460 ppi density)\nCeramic Shield glass\nAlways-On display</string>
+    <string name="content_specs_size">160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in)</string>
+    <string name="content_specs_battery">Li-Ion 4323 mAh, non-removable (16.68 Wh)\nWired, PD2.0, 50% in 30 min (advertised)\n15W wireless (MagSafe)\n7.5W wireless (Qi)</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Satria</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp. 21.999.000</string>
+    <string name="dummy_photos">1 photos</string>
+    <string name="succes_buy">Produk telah berhasil di beli</string>
+    <string name="dial_number">Hubungi Penjual</string>
+
+</resources>
